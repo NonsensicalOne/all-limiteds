@@ -11,11 +11,11 @@ Top 10 Item Ownership Distribution
 **Fun fact:** There are over **17752** limited copies!
 
 <p align="center">
-  <img src="top_10_item_ownership_distribution.svg" /> 
+  <img src="top_10_item_ownership_distribution.svg" width=600 /> 
 </p>
 
 Top 10 Item Ownership Distribution and Full Item Ownership Distribution (As Bar)
 
 <p align="center">
-  <img src="top_10_item_ownership_distribution_bar.svg" /> 
+  <img src="top_10_item_ownership_distribution_bar.svg" width=600 /> 
 </p>
