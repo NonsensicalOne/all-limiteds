@@ -14,7 +14,7 @@ jobs:
 
       - name: Install Python packages
         run:  |
-          pip install matplotlib requests
+          pip install matplotlib requests numpy
       
       # "cloudflare is my number one opp" -willemsteller
       - name: Run flare-bypasser
