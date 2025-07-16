@@ -3122,7 +3122,7 @@
             },
             {
                 "name": "prettyburger",
-                "count": 4
+                "count": 8
             },
             {
                 "name": "Amorbis",
@@ -3425,10 +3425,6 @@
                 "count": 1
             },
             {
-                "name": "conetopia",
-                "count": 5
-            },
-            {
                 "name": "Brixster",
                 "count": 1
             },
@@ -3450,6 +3446,10 @@
             },
             {
                 "name": "KapitanTaco",
+                "count": 1
+            },
+            {
+                "name": "conetopia",
                 "count": 1
             },
             {
